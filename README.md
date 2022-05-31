@@ -56,4 +56,5 @@
 
 **Properties**
 
+| ---- | ---------- | ------ |
 | Variant | "" | `variant` |
