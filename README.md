@@ -41,15 +41,13 @@
  <br />
  
  > **Properties**
- 
- <details><summary>Inputs</summary>
- | Name | Description| Default|
- | ---- | ---------- | ------ |
- | variant | `"primary"` `"basic"` `"text"` `"warn"` | `"primary"`|
- | disabled | `boolean` | `false` |
- | aria-label | `string` |     -    |
- | IconPositionedEnd | `TemplateRef<any> or null` |  -  |
- | IconPositionedFront | `TemplateRef<any> or null` |  -  |
- | id | `string` | "" |
- | size | `"large"` `"medium"` `"small"` | `"large"` |
- </details>
+   - > **Inputs**
+     | Name | Description| Default|
+     | ---- | ---------- | ------ |
+     | variant | `"primary"` `"basic"` `"text"` `"warn"` | `"primary"`|
+     | disabled | `boolean` | `false` |
+     | aria-label | `string` |     -    |
+     | IconPositionedEnd | `TemplateRef<any> or null` |  -  |
+     | IconPositionedFront | `TemplateRef<any> or null` |  -  |
+     | id | `string` | "" |
+     | size | `"large"` `"medium"` `"small"` | `"large"` |
