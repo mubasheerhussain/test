@@ -1,7 +1,7 @@
 # Button 
  <br />
 
-> ## Overview
+> **Overview**
 
  Buttons are created using native `<button>` element enhanced based on the design styling provided in figma. 
  <br />
