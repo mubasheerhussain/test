@@ -40,9 +40,7 @@
  Button can contain one or two icon either in front of button text or after the button text or both as per the requirement. We can position the icon using `IconPositionedFront` and `IconPositionedEnd` property of the button. To which we can pass the template of the icon.
  <br />
  
- > **Properties**
- 
-**Inputs**
+> **Inputs**
 
 | Name | Description| Default|
 | ---- | ---------- | ------ |
@@ -54,26 +52,26 @@
 | id | `string` | "" |
 | size | `"large"` `"medium"` `"small"` | `"large"` |
 
-**Properties**
+> **Properties**
 
 | Name | Description| Default|
 | ---- | ---------- | ------ |
 | Variant | `""` | `variant` |
 
-**Outputs**
+> **Outputs**
 
 | Name | Description| Default|
 | ---- | ---------- | ------ |
 | onClick | `EventEmitter` | `onClick: {}` |
 
-**Methods**
+> **Methods**
 
 | Name | Description| Default|
 | ---- | ---------- | ------ |
 | ngOnInit | `() => void` |    |
 | OnClick | `() => void` | `OnClick: {}` |
 
-**View Child**
+> **View Child**
 
 | Name | Description| Default|
 | ---- | ---------- | ------ |
