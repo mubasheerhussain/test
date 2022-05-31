@@ -42,40 +42,40 @@
  
  > **Properties**
  
-     **Inputs**
+**Inputs**
 
-     | Name | Description| Default|
-     | ---- | ---------- | ------ |
-     | variant | `"primary"` `"basic"` `"text"` `"warn"` | `"primary"`|
-     | disabled | `boolean` | `false` |
-     | aria-label | `string` |     -    |
-     | IconPositionedEnd | `TemplateRef<any> or null` |  -  |
-     | IconPositionedFront | `TemplateRef<any> or null` |  -  |
-     | id | `string` | "" |
-     | size | `"large"` `"medium"` `"small"` | `"large"` |
+| Name | Description| Default|
+| ---- | ---------- | ------ |
+| variant | `"primary"` `"basic"` `"text"` `"warn"` | `"primary"`|
+| disabled | `boolean` | `false` |
+| aria-label | `string` |     -    |
+| IconPositionedEnd | `TemplateRef<any> or null` |  -  |
+| IconPositionedFront | `TemplateRef<any> or null` |  -  |
+| id | `string` | "" |
+| size | `"large"` `"medium"` `"small"` | `"large"` |
 
-     **Properties**
+**Properties**
 
-     | Name | Description| Default|
-     | ---- | ---------- | ------ |
-     | Variant | `""` | `variant` |
+| Name | Description| Default|
+| ---- | ---------- | ------ |
+| Variant | `""` | `variant` |
 
-     **Outputs**
+**Outputs**
 
-     | Name | Description| Default|
-     | ---- | ---------- | ------ |
-     | onClick | `EventEmitter` | `onClick: {}` |
+| Name | Description| Default|
+| ---- | ---------- | ------ |
+| onClick | `EventEmitter` | `onClick: {}` |
 
-     **Methods**
+**Methods**
 
-     | Name | Description| Default|
-     | ---- | ---------- | ------ |
-     | ngOnInit | `() => void` |    |
-     | OnClick | `() => void` | `OnClick: {}` |
+| Name | Description| Default|
+| ---- | ---------- | ------ |
+| ngOnInit | `() => void` |    |
+| OnClick | `() => void` | `OnClick: {}` |
 
-     **View Child**
+**View Child**
 
-     | Name | Description| Default|
-     | ---- | ---------- | ------ |
-     | buttonText | `ElementRef` `null` |  |
+| Name | Description| Default|
+| ---- | ---------- | ------ |
+| buttonText | `ElementRef` `null` |  |
 
