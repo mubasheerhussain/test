@@ -44,5 +44,9 @@
  
  | Name | Description| Default|
  | ---- | ---------- | ------ |
- | variant | `"primary"` `"basic"` `"text"` `"warn"` | `"primary"`
+ | variant | `"primary"` `"basic"` `"text"` `"warn"` | `"primary"`|
+ | disabled | `boolean` | `false` |
+ | aria-label | `string` |         |
+ | IconPositionedEnd | `TemplateRef<any> | null` |    |
+ 
  
