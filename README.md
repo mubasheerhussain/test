@@ -68,12 +68,12 @@
 
 | Name | Description| Default|
 | ---- | ---------- | ------ |
-| ngOnInit | `() => void` |    |
+| ngOnInit | `() => void` |  -  |
 | OnClick | `() => void` | `OnClick: {}` |
 
 > **View Child**
 
 | Name | Description| Default|
 | ---- | ---------- | ------ |
-| buttonText | `ElementRef` `null` |  |
+| buttonText | `ElementRef` `null` | - |
 
