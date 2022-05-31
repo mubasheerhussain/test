@@ -30,3 +30,16 @@
  We have used native `<button>` element to ensure an accessible experience by default. A `<button>` element should be used for any interaction that performs an action on the current page. All standard accessibility best practices are applied .
  <br />
  
+ > **Disabling Button**
+ 
+ We can disable the button using the `disabled` property on the button. It accepts `boolean` value. The styling for disabled button is as mentioned in the figma.
+ <br />
+ 
+ > **Button With Icon**
+ 
+ Button can contain one or two icon either in front of button text or after the button text or both as per the requirement. We can position the icon using `IconPositionedFront` and `IconPositionedEnd` property of the button. To which we can pass the template of the icon.
+ <br />
+ 
+ > **Properties**
+ 
+ 
