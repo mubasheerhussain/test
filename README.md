@@ -42,11 +42,16 @@
  
  > **Properties**
  
- | Name | Description| Default|
+ <details><summary>Inputs</summary>
+ <p>
+  | Name | Description| Default|
  | ---- | ---------- | ------ |
  | variant | `"primary"` `"basic"` `"text"` `"warn"` | `"primary"`|
  | disabled | `boolean` | `false` |
- | aria-label | `string` |         |
- | IconPositionedEnd | `TemplateRef<any> or null` |    |
- 
- 
+ | aria-label | `string` |     -    |
+ | IconPositionedEnd | `TemplateRef<any> or null` |  -  |
+ | IconPositionedFront | `TemplateRef<any> or null` |  -  |
+ | id | `string` | "" |
+ | size | `"large"` `"medium"` `"small"` | `"large"` |
+  </p>
+ </details>
