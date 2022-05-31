@@ -6,7 +6,7 @@
  Buttons are created using native `<button>` element enhanced based on the design styling provided in figma. 
  <br />
  
-> Themes
+> **Themes**
  
  | Attribute | Description|
  | --------- | ---------- |
@@ -16,7 +16,7 @@
  | Warn      | `Warn` is a rectangular contained button with a striking red color |
  <br />
  
- > Size
+ > **Size**
  
  `Button` component is available in 3 different size.
  
@@ -25,7 +25,7 @@
  3. Small.
  <br />
  
- > Accessibility
+ > **Accessibility**
  
  We have used native `<button>` element to ensure an accessible experience by default. A `<button>` element should be used for any interaction that performs an action on the current page. All standard accessibility best practices are applied .
  <br />
