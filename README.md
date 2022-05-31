@@ -43,8 +43,7 @@
  > **Properties**
  
  <details><summary>Inputs</summary>
- <p>
-  | Name | Description| Default|
+ | Name | Description| Default|
  | ---- | ---------- | ------ |
  | variant | `"primary"` `"basic"` `"text"` `"warn"` | `"primary"`|
  | disabled | `boolean` | `false` |
@@ -53,5 +52,4 @@
  | IconPositionedFront | `TemplateRef<any> or null` |  -  |
  | id | `string` | "" |
  | size | `"large"` `"medium"` `"small"` | `"large"` |
-  </p>
  </details>
