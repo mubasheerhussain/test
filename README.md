@@ -42,8 +42,10 @@
  
  > **Properties**
  <br />
+ 
 **Inputs**
  <br />
+ 
 | Name | Description| Default|
 | ---- | ---------- | ------ |
 | variant | `"primary"` `"basic"` `"text"` `"warn"` | `"primary"`|
