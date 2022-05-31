@@ -56,5 +56,26 @@
 
 **Properties**
 
+| Name | Description| Default|
 | ---- | ---------- | ------ |
-| Variant | "" | `variant` |
+| Variant | `""` | `variant` |
+
+**Outputs**
+
+| Name | Description| Default|
+| ---- | ---------- | ------ |
+| onClick | `EventEmitter` | `onClick: {}` |
+
+**Methods**
+
+| Name | Description| Default|
+| ---- | ---------- | ------ |
+| ngOnInit | `() => void` |    |
+| OnClick | `() => void` | `OnClick: {}` |
+
+**View Child**
+
+| Name | Description| Default|
+| ---- | ---------- | ------ |
+| buttonText | `ElementRef` `null` |  |
+
