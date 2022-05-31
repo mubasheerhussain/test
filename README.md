@@ -4,6 +4,9 @@
 > Overview
 
  Buttons are created using native `<button>` element enhanced based on the design styling provided in figma. 
+ <br />
+ 
+ > Themes
  
  | Attribute | Description|
  | --------- | ---------- |
@@ -11,3 +14,10 @@
  | Basic     | `Basic` is a rectangular outlined button with white background and blue colored text and border. |
  | Text      | `Text` is a rectangular transparent button without border and a light shade on hover. |
  | Warn      | `Warn` is a rectangular contained button with a striking red color |
+ <br />
+ 
+ > Accessibility
+ 
+ We have used native `<button>` element to ensure an accessible experience by default. A `<button>` element should be used for any interaction that performs an action on the current page. All standard accessibility best practices are applied .
+ <br />
+ 
