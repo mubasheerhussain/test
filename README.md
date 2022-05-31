@@ -42,4 +42,7 @@
  
  > **Properties**
  
+ | Name | Description| Default|
+ | ---- | ---------- | ------ |
+ | variant | `"primary"` `"basic"` `"text"` `"warn"` | `"primary"`
  
