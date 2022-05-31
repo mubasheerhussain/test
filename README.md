@@ -41,11 +41,9 @@
  <br />
  
  > **Properties**
- <br />
  
 **Inputs**
- <br />
- 
+
 | Name | Description| Default|
 | ---- | ---------- | ------ |
 | variant | `"primary"` `"basic"` `"text"` `"warn"` | `"primary"`|
@@ -55,3 +53,7 @@
 | IconPositionedFront | `TemplateRef<any> or null` |  -  |
 | id | `string` | "" |
 | size | `"large"` `"medium"` `"small"` | `"large"` |
+
+**Properties**
+
+| Variant | "" | `variant` |
