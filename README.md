@@ -27,7 +27,7 @@
  
  > **Accessibility**
  
- We have used native `<button>` element to ensure an accessible experience by default. A `<button>` element should be used for any interaction that performs an action on the current page. All standard accessibility best practices are applied .
+ We have used native `<button>` element to ensure an accessible experience by default. A `Button` should be used for any interaction that performs an action on the current page. All standard accessibility best practices are applied .
  <br />
  
  > **Disabling Button**
@@ -43,7 +43,7 @@
 > **Inputs**
 
 | Name | Description| Default|
-| ---- | ---------- | ------ |
+| ---- | ---------- | :----: |
 | variant | `"primary"` `"basic"` `"text"` `"warn"` | `"primary"`|
 | disabled | `boolean` | `false` |
 | aria-label | `string` |     -    |
@@ -55,25 +55,25 @@
 > **Properties**
 
 | Name | Description| Default|
-| ---- | ---------- | ------ |
+| ---- | ---------- | :----: |
 | Variant | `""` | `variant` |
 
 > **Outputs**
 
 | Name | Description| Default|
-| ---- | ---------- | ------ |
+| ---- | ---------- | :----: |
 | onClick | `EventEmitter` | `onClick: {}` |
 
 > **Methods**
 
 | Name | Description| Default|
-| ---- | ---------- | ------ |
+| ---- | ---------- | :----: |
 | ngOnInit | `() => void` |  -  |
 | OnClick | `() => void` | `OnClick: {}` |
 
 > **View Child**
 
 | Name | Description| Default|
-| ---- | ---------- | ------ |
+| ---- | ---------- | :----: |
 | buttonText | `ElementRef` `null` | - |
 
