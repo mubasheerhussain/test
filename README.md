@@ -6,7 +6,7 @@
  Buttons are created using native `<button>` element enhanced based on the design styling provided in figma. 
  <br />
  
-> **Themes**
+> **Variant**
  
  | Attribute | Description|
  | --------- | ---------- |
